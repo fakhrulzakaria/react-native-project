@@ -8,6 +8,8 @@
 
 import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, Image} from 'react-native';
+import Biodata from './components/Biodata';
+import Hiasan from './components/Hiasan';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -21,12 +23,15 @@ export default class App extends Component<Props> {
   render() {
     return (
       <View style={styles.container}>
-      	<Text>==============================</Text>
+      <Biodata dinamis='Biodata'/>
+      <Biodata dinamis='Siswa'/>
+        <Text>==============================</Text>
         <Text style={styles.welcome}>Nama : Fakhrul Zakaria</Text>
         <Text style={styles.welcome}>Kelas : XI RPL 1</Text>
         <Text style={styles.welcome}>Absen : 13</Text>
         <Text>==============================</Text>
         <Image source={require('./1-man.jpg')} style={styles.gambar}/>
+        <Hiasan/>
       </View>
     );
   }

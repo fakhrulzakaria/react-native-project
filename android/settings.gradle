@@ -1,3 +1,5 @@
 rootProject.name = 'ProjekPertama'
+include ':react-native-controlled-gif'
+project(':react-native-controlled-gif').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-controlled-gif/android')
 
 include ':app'
