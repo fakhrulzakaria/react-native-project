@@ -10,6 +10,7 @@ import React, {Component} from 'react';
 import {Platform, StyleSheet, Text, View, Image} from 'react-native';
 import Biodata from './components/Biodata';
 import Hiasan from './components/Hiasan';
+import Login from './components/Login';
 
 const instructions = Platform.select({
   ios: 'Press Cmd+R to reload,\n' + 'Cmd+D or shake for dev menu',
@@ -32,6 +33,7 @@ export default class App extends Component<Props> {
         <Text>==============================</Text>
         <Image source={require('./1-man.jpg')} style={styles.gambar}/>
         <Hiasan/>
+        <Login/>
       </View>
     );
   }
