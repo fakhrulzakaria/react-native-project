@@ -8,7 +8,7 @@ class HomeScreen extends React.Component {
       <View style={styles.container}>
         <Image 
         style={{width:100,height:100}}
-        source={require('./fb.png')} />
+        source={require('./sebo.png')} />
         <TextInput
         style = {styles.inputBox}
         placeholder="Telepon atau Email"
@@ -35,13 +35,13 @@ const styles = StyleSheet.create({
       flex: 1,
       justifyContent: 'center',
       alignItems: 'center',
-      backgroundColor: '#fff'
+      backgroundColor: '#fafaff'
   },
 
   inputBox:{
     width: 250,
     fontSize: 13,
-    color: '#000000'
+    color: '#34495e'
   },
 
   button:{
@@ -49,7 +49,7 @@ const styles = StyleSheet.create({
     height: 40,
     alignItems: 'center',
     justifyContent: 'center',
-    backgroundColor: '#3B5998',
+    backgroundColor: '#977FFF',
     marginVertical: 10,
     paddingHorizontal: 80
   },
