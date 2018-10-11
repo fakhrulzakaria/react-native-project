@@ -17,3 +17,7 @@
 7. Ganti tulisan Biodata menjadi nama file yang baru dibuat di folder components (langkah no. 2)
 
 
+Contoh saya beri nama Filebaru di langkah no. 2
+>https://pastebin.com/WjrRf8na
+
+
