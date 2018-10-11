@@ -4,7 +4,7 @@
 
 2. Buat file baru di folder components dan beri nama sesuai keinginan kalian
 
-3. Copy code di bawah ini untuk dasar syntax
+3. Isi file tersebut dengan code di bawah ini, lalu simpan dengan format .js
 > https://pastebin.com/Wdv6Nm3R
 
-3. Isi bagian yang sudah saya beri komentar
+4. Isi bagian yang sudah saya beri komentar
