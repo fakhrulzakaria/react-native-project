@@ -7,7 +7,7 @@
 3. Isi file tersebut dengan code di bawah ini, lalu simpan dengan format .js
 > https://pastebin.com/Wdv6Nm3R
 
-4. Isi bagian yang sudah saya beri komentar
+4. Isi bagian yang sudah aku beri komentar
 
 5. Buka index.js, lalu edit
 
@@ -17,7 +17,7 @@
 7. Ganti tulisan Biodata menjadi nama file yang baru dibuat di folder components (langkah no. 2)
 
 
-Contoh saya beri nama Filebaru di langkah no. 2
+Contoh aku beri nama Filebaru di langkah no. 2
 >https://pastebin.com/WjrRf8na
 
 
