@@ -11,7 +11,7 @@
 
 5. Buka index.js, lalu edit
 
-6. Samakan isi filenya dengan app.js yang ada di repositoryku
+6. Samakan isi filenya dengan index.js yang ada di repositoryku
 >https://github.com/fakhrulzakaria/reactNativeProject
 
 7. Ganti tulisan Biodata menjadi nama file yang baru dibuat di folder components (langkah no. 2)
