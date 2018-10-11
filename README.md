@@ -17,11 +17,11 @@
 7. Ganti tulisan Biodata menjadi nama file yang baru dibuat di folder components (langkah no. 2)
 
 
-#Contoh 
+# Contoh 
 Aku kasih nama **Filebaru** di langkah no. 2
 >https://pastebin.com/WjrRf8na
 
-#Kalo ada yang error
+# Kalo ada yang error
 Bisa dicek disini
 >http://bit.ly/faq_error_reactnative
 
