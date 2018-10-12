@@ -5,5 +5,7 @@
 2. Install React Navigation di folder projectmu
 > npm install --save react-navigation
 
-3. Edit isi file index.js yang ada di folder projectmu dengan 
+3. Edit isi file app.js yang ada di folder projectmu dengan code di bawah ini
 > https://pastebin.com/Wdv6Nm3R
+
+4. Edit baris yang diberi komentar dengan code Login dan Biodata kalian
